@@ -1,25 +1,25 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Diego Huaraca
-description: Diego Paul Huaraca Shagñay.
-keywords: Github, duhi23
+title: Math Consultores EC
+description: Math Consultores Ecuador.
+keywords: Github, MathConsultoresEC
 baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: http://duhi23.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
+url: http://mathconsultoresec.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: GitHub  # Be used at blog posts' author.
-  first_name: Diego Paul Huaraca Shagñay  # Be used at index page about me section.
-  last_name: # Be used at index page about me section.
+  first_name: Math Consultores # Be used at index page about me section.
+  last_name: Ecuador # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: duhi23  # Leave blank if you don't have now
-  linkedin_id: diego-paúl-huaraca-s-0200b44b # Leave blank if you don't have now
-  facebook_username: duhi23  # Leave blank if you don't have now
-  twitter_username: duhi23  # Leave blank if you don't have now
-  email: diego.21.phs@hotmail.com  # Leave blank if you don't have now
+  linkedin_id: mathconsulta # Leave blank if you don't have now
+  facebook_username: mathconsulta  # Leave blank if you don't have now
+  twitter_username: mathconsulta  # Leave blank if you don't have now
+  email: mathconsultorias@gmail.com  # Leave blank if you don't have now
   cv: http://duhi23.github.io/curriculum_vitae.pdf  # A online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Si he hecho descubrimientos invaluables ha sido más por tener paciencia que por cualquier otro talento.  # Describe yourself.
+  desc: Capacitación, Asesoramiento e Investigación en áreas afines a Matemática, Estadística, y Análisis de Datos en general.  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
