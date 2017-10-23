@@ -15,7 +15,7 @@ author:  # change following line to your infomation.
   first_name: Math Consultores # Be used at index page about me section.
   last_name: Ecuador # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar_redon.png  # upload your avatar at directory and edit it.
-  github_username: duhi23  # Leave blank if you don't have now
+  github_username: MathConsultoresEC  # Leave blank if you don't have now
   linkedin_id: mathconsulta # Leave blank if you don't have now
   facebook_username: mathconsulta  # Leave blank if you don't have now
   twitter_username: mathconsulta  # Leave blank if you don't have now
