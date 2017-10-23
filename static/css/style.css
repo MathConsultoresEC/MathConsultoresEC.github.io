@@ -7488,7 +7488,7 @@ body.landing-page {
 
 .landing-page .header-back.one {
     background: url(../img/landing/portada1.png) 50% 0 no-repeat;
-    background-size: cover;
+    background-size: contain;;
 }
 
 .landing-page .header-back.two {
