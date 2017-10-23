@@ -7487,11 +7487,13 @@ body.landing-page {
 }
 
 .landing-page .header-back.one {
-    background: url(../img/landing/portada1.png) 50% 0 no-repeat
+    background: url(../img/landing/portada1.png) 50% 0 no-repeat;
+    background-size: 100% 100%;
 }
 
 .landing-page .header-back.two {
-    background: url(../img/landing/portada1.png) 50% 0 no-repeat
+    background: url(../img/landing/portada1.png) 50% 0 no-repeat;
+    background-size: 100% 100%;
 }
 
 .landing-page .carousel {
