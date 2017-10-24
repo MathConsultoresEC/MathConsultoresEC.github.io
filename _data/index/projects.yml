@@ -15,6 +15,13 @@
   img: /static/assets/img/landing/user_icon2.png
   desc: Ingeniero Matemático, especializado en Estadística e Investigación de Operaciones (Escuela Politécnica Nacional), Instructora del software R.
 
+- name: Rubi Arias
+  i18n: leetcode
+  gh_user: kamyu104
+  repo: LeetCode
+  img: /static/assets/img/landing/user_icon2.png
+  desc: Ingeniero Matemático, especializado en Estadística e Investigación de Operaciones (Escuela Politécnica Nacional), desarolladora del paquete de R 'ILS:Interlaboratory Study'.
+
 - name: Mateo Larco
   i18n: leetcode
   gh_user: kamyu104
@@ -22,12 +29,6 @@
   img: /static/assets/img/landing/user_icon.png
   desc: Ingeniero Matemático, especializado en Estadística e Investigación de Operaciones (Escuela Politécnica Nacional), Instructor de Excel.
 
-- name: Rubi Arias
-  i18n: leetcode
-  gh_user: kamyu104
-  repo: LeetCode
-  img: /static/assets/img/landing/user_icon2.png
-  desc: Ingeniero Matemático, especializado en Estadística e Investigación de Operaciones (Escuela Politécnica Nacional), desarolladora del paquete de R 'ILS:Interlaboratory Study'.
 
 - name: FamilyCODE Wchat
   i18n: familycode
