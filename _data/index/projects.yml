@@ -2,18 +2,32 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Cristian Pachacama
-  i18n: CDP
+  i18n: leetcode
   gh_user: cristanpachacama
   repo: cristanpachacama
-  img: /static/assets/img/landing/dav1.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  img: /static/assets/img/landing/user_icon.png
+  desc: Ingeniero Matemático, especializado en Estadística e Investigación de Operaciones (Escuela Politécnica Nacional), Asistente de Investigación (Escuela Politécnica Nacional).
 
-- name: LeetCode
+- name: Katherine Morales
   i18n: leetcode
   gh_user: kamyu104
   repo: LeetCode
-  img: /static/assets/img/landing/leetcode.png
-  desc: This project is other's project. I use another request to get repo's information.
+  img: /static/assets/img/landing/user_icon2.png
+  desc: Ingeniero Matemático, especializado en Estadística e Investigación de Operaciones (Escuela Politécnica Nacional), Instructora del software R.
+
+- name: Mateo Larco
+  i18n: leetcode
+  gh_user: kamyu104
+  repo: LeetCode
+  img: /static/assets/img/landing/user_icon.png
+  desc: Ingeniero Matemático, especializado en Estadística e Investigación de Operaciones (Escuela Politécnica Nacional), Instructor de Excel.
+
+- name: Rubi Arias
+  i18n: leetcode
+  gh_user: kamyu104
+  repo: LeetCode
+  img: /static/assets/img/landing/user_icon2.png
+  desc: Ingeniero Matemático, especializado en Estadística e Investigación de Operaciones (Escuela Politécnica Nacional), desarolladora del paquete de R 'ILS:Interlaboratory Study'.
 
 - name: FamilyCODE Wchat
   i18n: familycode
