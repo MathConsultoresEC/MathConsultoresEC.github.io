@@ -14,47 +14,6 @@
     i18n: company_a_job
   icon: fa-plus-square
 
-- name:
-    detail: Escuela Politécnica Nacional
-    i18n: company_b
-  desc:
-    detail: Profesor del Departamento de Matemática en las cátedras; Análisis y tratamiento de datos con R, Teoría de Juegos y Cálculo en una variable.
-    i18n: company_b_desc
-  date:
-    detail: Mayo 2015 - Enero 2016
-    i18n: company_b_date
-  job:
-    detail: Técnico Docente
-    i18n: company_b_job
-  icon: fa-plus-square
-
-- name:
-    detail: EQUIFAX, Buró de Información Crediticia
-    i18n: company_c
-  desc:
-    detail: Desarrollo de modelos crediticios para instituciones del Sistema Financiero de Ecuador y Perú. Automatización de metodologías empleadas en la construcción de modelos scoring. Desarrollo de nuevos productos; Segmentación de clientes, Sobreendeudamiento, etc.
-    i18n: company_c_desc
-  date:
-    detail: Julio 2013 - Abril 2015
-    i18n: company_c_date
-  job:
-    detail: Analista Senior de Riesgos
-    i18n: company_c_job
-  icon: fa-plus-square
-  
-- name:
-    detail: CEAACES
-    i18n: company_d
-  desc:
-    detail: Miembro del equipo consultor del proyecto; Análisis de la situación del Sistema de Educación conformado por las Universidades y Escuela Politécnicas, con base en la evaluación realizada por el Ceaaces en el año 2013, Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
-    i18n: company_d_desc
-  date:
-    detail: Noviembre 2014 - Marzo 2015
-    i18n: company_d_date
-  job:
-    detail: Consultor
-    i18n: company_d_job
-  icon: fa-plus-square
 
 - name:
     detail: Escuela Politécnica Nacional
@@ -70,20 +29,7 @@
     i18n: company_e_job
   icon: fa-plus-square
 
-- name:
-    detail: EQUIFAX, Buró de Información Crediticia
-    i18n: company_f
-  desc:
-    detail: Desarrollo y documentación de modelos scoring para Instituciones Financieras Ecuatorianas.
-    i18n: company_f_desc
-  date:
-    detail: Noviembre 2011 - Octubre 2012
-    i18n: company_f_date
-  job:
-    detail: Pasante
-    i18n: company_f_job
-  icon: fa-plus-square
-  
+
 - name:
     detail: Sociedad Ecuatoriana de Matemática
     i18n: company_g
@@ -97,3 +43,4 @@
     detail: Editor
     i18n: company_g_job
   icon: fa-plus-square
+  
