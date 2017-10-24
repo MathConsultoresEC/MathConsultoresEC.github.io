@@ -1,18 +1,18 @@
 # links section data
-- last_name: Name 1
+- last_name: RUsersGroup
+  first_name: Ecuador
+  desc: Usuarios R - Ecuador
+  website: https://www.rusersgroup.com
+  email: 
+
+- last_name: R - Bloggers
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc: R news and tutorials
+  website: http://www.r-bloggers.com
+  email:
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
-
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: SEE
+  first_name:
+  desc: Sociedad Ecuatoriana de Estadística
+  website: http://www.see-ec.org/
+  email:
