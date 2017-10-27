@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: __MATH Consultores Ecuador__ es una empresa Ecuatoriana con sede en Quito especializada en fomentar el avance del conocimiento estadístico, la cual presta sus servicios de capacitación en el lenguaje estadístico R para profesionales y estudiantes en todas sus verticales (investigación, docencia, empresas, etc.). MATH Consultores Ecuador brinda capacitación, reportería y consultoría estadística con el uso de herramientas de software libre como: R, RStudio, a empresas globales y locales, así como instituciones públicas.
+  desc: MATH Consultores Ecuador es una empresa Ecuatoriana con sede en Quito especializada en fomentar el avance del conocimiento estadístico, la cual presta sus servicios de capacitación en el lenguaje estadístico R para profesionales y estudiantes en todas sus verticales (investigación, docencia, empresas, etc.). MATH Consultores Ecuador brinda capacitación, reportería y consultoría estadística con el uso de herramientas de software libre como: R, RStudio, a empresas globales y locales, así como instituciones públicas.
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
 #  name: jalpc
